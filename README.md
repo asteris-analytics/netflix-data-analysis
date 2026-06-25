@@ -119,7 +119,7 @@ netflix-data-analysis/
 │   ├── top_genres.png
 │   └── top_voted_movies.png
 │
-├── netflix_analysis.py
+├── analysis.py
 ├── README.md
 ├── requirements.txt
 └── .gitignore
@@ -144,7 +144,7 @@ pip install -r requirements.txt
 Run the project
 
 ```bash
-python netflix_analysis.py
+python analysis.py
 ```
 
 ---
