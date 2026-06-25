@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-black?logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-blue)
 # 🎬 Netflix Data Analysis
 
 Exploratory Data Analysis (EDA) of Netflix Movies and TV Shows using **Python**, **Pandas**, **Matplotlib**, and **Seaborn**.
